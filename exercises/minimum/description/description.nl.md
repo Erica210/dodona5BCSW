@@ -4,6 +4,6 @@ Deze functie moet het grootste geval van die twee teruggeven.
 ### Voorbeeld
 
 ```console?lang=python&prompt=>>>
->>> naximum(5, 6)
+>>> maximum(5, 6)
 6
 ```
