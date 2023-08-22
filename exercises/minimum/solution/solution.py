@@ -1,5 +1,5 @@
 def maximum(a,b)
-  if a>b
+  if a>b:
     return a
-  else
+  else:
     return b
