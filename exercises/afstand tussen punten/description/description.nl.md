@@ -4,7 +4,7 @@ De formule voor de afstand tussen 2 coördinaten is:
 
 $$|AB| = \sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$$
 
-\mathbb{Tip}: Voor elk coördinaat moet je 2 getallen kennen.
+**Tip**: Voor elk coördinaat moet je 2 getallen kennen.
 
 ### Voorbeeld
 
