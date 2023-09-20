@@ -2,7 +2,7 @@ Schrijf een programma dat aan de gebruiker de coördinaatgetallen van 2 punten A
 
 De formule voor de afstand tussen 2 coördinaten is:
 
-$$|AB| = sqrt{(x_2-x_1)^2+(y_2-y_1)^2} $$
+$$|AB| = \sqrt{(x_2-x_1)^2+(y_2-y_1)^2} $$
 
 \mathbb{Tip}: Voor elk coördinaat moet je 2 getallen kennen.
 
