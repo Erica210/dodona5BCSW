@@ -10,7 +10,7 @@ $$|AB| = \sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$$
 * De coordinaat van het midden van het lijnstuk [AB].
 De formule voor de afstand tussen 2 coördinaten is:
 
-$$ mi([AB]) = \Big(\frac{x_1+x_2}{2}\Big)
+$$ mi([AB]) = \Big(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\Big)$$
 
 **Tip**: Voor elk coördinaat moet je 2 getallen kennen.
 
