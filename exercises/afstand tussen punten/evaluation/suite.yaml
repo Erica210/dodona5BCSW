@@ -1,15 +1,2 @@
-- tab: "maximum"
-  testcases:
-    - expression: "maximum(5, 6)"
-      return: 6
-    - expression: "maximum(1.2, 1.96)"
-      return: 1.96
-    - expression: "maximum(1000000000, -5)"
-      return: 1000000000
-    - expression: "maximum(-5, -6)"
-      return: -5
-    - expression: "maximum(6, 6)"
-      return: 6
-    - expression: "maximum(105,10)"
-      return: 105
+
 
