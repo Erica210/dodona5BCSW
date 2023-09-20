@@ -8,6 +8,16 @@ $$|AB| = \sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$$
 
 ### Voorbeeld
 
+#### invoer
+
+```console?lang=python&prompt=>>>
+>>> 5
+>>> 8
+>>> -2
+>>> 2
+
+```
+
 ```console?lang=python&prompt=>>>
 >>> 5
 ```
