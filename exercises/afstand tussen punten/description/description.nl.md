@@ -9,6 +9,5 @@ $$|AB| = \sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$$
 ### Voorbeeld
 
 ```console?lang=python&prompt=>>>
->>> maximum(5, 6)
-6
+>>> 5
 ```
