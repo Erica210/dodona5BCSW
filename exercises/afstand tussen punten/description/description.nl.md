@@ -27,6 +27,6 @@ $$ mi([AB]) = \Big(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\Big)$$
 ```
 #### uitvoer
 ```console?lang=python&prompt=>>>
->>> De afstand tussen A en B is 5.
->>> De coördinaat van het midden is (1,3.5).
+>>> |AB|=5
+>>> mi([AB])=(1,3.5)
 ```
