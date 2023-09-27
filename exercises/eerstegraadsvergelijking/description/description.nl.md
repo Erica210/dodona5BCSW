@@ -1,30 +1,28 @@
-Schrijf een programma dat aan de gebruiker de coördinaatgetallen van 2 punten A(x_1,y_1) en B(x_2,y_2) vraagt.
+# Inleiding.
+Een eerstegraadsfunctie kan steeds geschreven worden als volgt: f(x)=ax+b.
 
-De uitvoer moet het volgende bevatten:
+In dit geval zijn de snijpunten met de assen makkelijk te berekenen. 
+Het snijpunt met de x-as is:
 
-* De afstand tussen de twee punten. De formule voor de afstand tussen 2 coördinaten is:
+$$(\frac{-b}{a},0)
 
-$$|AB| = \sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$$
+Het snijpunt met de y-as is:
 
-* De coordinaat van het midden van het lijnstuk [AB]. De formule voor de afstand tussen 2 coördinaten is:
+$$ (0,b)
 
-$$ mi([AB]) = \Big(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\Big)$$
+Waarbij $a$ de coëfficient is van x en $b$ de constante term.
 
-**Tip**: Voor elk coördinaat moet je 2 getallen kennen.
 
 ### Voorbeeld
 
 #### invoer
 
 ```console?lang=python&prompt=>>>
-5
-8
--3
+2
 1
-
 ```
 #### uitvoer
 ```console?lang=python&prompt=>>>
->>> |AB|=5
->>> mi([AB])=(1,3.5)
+>>> Het snijpunt met de x-as is (-2,0)
+>>> Het snijpunt met de y-as is (0,1)
 ```
