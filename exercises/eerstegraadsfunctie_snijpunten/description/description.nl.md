@@ -7,7 +7,7 @@ Als a en b gekend zijn, zijn de snijpunten met de assen makkelijk te berekenen.
 
 * Het snijpunt met de y-as is: $$(0,b)$$
 
-Waarbij $a$ de coëfficient is van x en $$b$$ de constante term.
+Waarbij $$a$$ de coëfficient is van x en $$b$$ de constante term.
 
 ## Oefening
 
