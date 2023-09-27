@@ -17,7 +17,7 @@ Als output geeft hij het snijpunt met de x-as en met de y-as.
 
 Zorg ervoor dat alle getallen afgerond zijn tot op 2 cijfers na de komma bij de uitvoer.
 
-### Voorbeeld2
+### Voorbeeld1
 
 #### invoer
 
