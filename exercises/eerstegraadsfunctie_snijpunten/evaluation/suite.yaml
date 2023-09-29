@@ -1,6 +1,0 @@
-- tab: ""
-  testcases:
-    - stdin: "-6"
-      stdin: "2"
-      stdout: "Het snijpunt met de x-as is (0.33,0)"
-      stdout: "Het snijpunt met de y-as is (0,2.0)"
