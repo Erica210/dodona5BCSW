@@ -15,7 +15,7 @@ Schrijf een programma dat als input 2 getallen (float) vraagt aan de gebruiker: 
 
 Als output geeft hij het snijpunt met de x-as en met de y-as.
 
-Zorg ervoor dat \underline{alle} getallen afgerond zijn tot op 2 cijfers na de komma bij de uitvoer.
+Zorg ervoor dat **alle** getallen afgerond zijn tot op 2 cijfers na de komma bij de uitvoer.
 
 ### Voorbeeld1
 
@@ -27,8 +27,8 @@ Zorg ervoor dat \underline{alle} getallen afgerond zijn tot op 2 cijfers na de k
 ```
 #### uitvoer
 ```console?lang=python&prompt=>>>
->>> Het snijpunt met de x-as is (0.33,0)
->>> Het snijpunt met de y-as is (0,2.0)
+Het snijpunt met de x-as is (0.33,0)
+Het snijpunt met de y-as is (0,2.0)
 ```
 
 ### Voorbeeld2
@@ -41,8 +41,8 @@ Zorg ervoor dat \underline{alle} getallen afgerond zijn tot op 2 cijfers na de k
 ```
 #### uitvoer
 ```console?lang=python&prompt=>>>
->>> Het snijpunt met de x-as is (-0.5,0)
->>> Het snijpunt met de y-as is (0,1.0)
+Het snijpunt met de x-as is (-0.5,0)
+Het snijpunt met de y-as is (0,1.0)
 ```
 
 ### Voorbeeld3
@@ -53,8 +53,9 @@ Zorg ervoor dat \underline{alle} getallen afgerond zijn tot op 2 cijfers na de k
 -1
 1.567
 ```
+
 #### uitvoer
 ```console?lang=python&prompt=>>>
->>> Het snijpunt met de x-as is (1.57,0)
->>> Het snijpunt met de y-as is (0,1.57)
-
+Het snijpunt met de x-as is (1.57,0)
+Het snijpunt met de y-as is (0,1.57)
+```
