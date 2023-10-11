@@ -4,5 +4,6 @@
       "nl": "kortingsbon"
     }
   },
-  "labels": []
+  "programming_language": "python",
+  "access": "private"
 }
