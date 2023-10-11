@@ -4,8 +4,5 @@
       "nl": "kortingsbon"
     }
   },
-  "evaluation": {
-    "pythia_judge": "output"
-  },
   "labels": []
 }
