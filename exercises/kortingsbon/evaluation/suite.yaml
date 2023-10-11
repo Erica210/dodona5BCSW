@@ -1,2 +1,10 @@
+- tab: "Testen"
+  testcases:
+  - stdin: "300"
+    stdout: "225"
+  - stdin: "155.99"
+    stdout: "140.39"
+  - stdin: "52"
+    stdout: "52"
 
 

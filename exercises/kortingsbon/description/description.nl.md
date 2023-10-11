@@ -1,6 +1,6 @@
 Een winkel houdt een actie. Indien een klant voor minimaal €250 koopt, krijgt hij 25% korting. Koopt hij voor minimaal €100, krijgt hij 10% korting. Koopt hij voor minder dan €100, krijgt hij geen korting.
 
-Schrijf een programma dat aan de gebruiker het totaalbedrag van zijn inkopen vraagt (voor een eventuele korting), en als uitvoer de te betalen prijs geeft (na eventuele korting)
+Schrijf een programma dat aan de gebruiker het totaalbedrag van zijn inkopen vraagt (voor een eventuele korting), en als uitvoer de te betalen prijs geeft (na eventuele korting), afgerond tot op 2 cijfers na de komma.
 
 
 ### Voorbeeld 1
@@ -13,7 +13,7 @@ Schrijf een programma dat aan de gebruiker het totaalbedrag van zijn inkopen vra
 ```
 #### uitvoer
 ```console?lang=python&prompt=>>>
-58
+58.0
 ```
 
 ### Voorbeeld 2
@@ -26,18 +26,18 @@ Schrijf een programma dat aan de gebruiker het totaalbedrag van zijn inkopen vra
 ```
 #### uitvoer
 ```console?lang=python&prompt=>>>
-225
+225.0
 ```
 
-### Voorbeeld 2
+### Voorbeeld 3
 
 #### invoer
 
 ```console?lang=python&prompt=>>>
-180
+155.99
 
 ```
 #### uitvoer
 ```console?lang=python&prompt=>>>
-162
+140.39
 ```
