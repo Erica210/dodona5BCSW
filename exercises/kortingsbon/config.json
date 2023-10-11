@@ -1,9 +1,11 @@
 {
   "description": {
     "names": {
-      "nl": "Kortingsbon"
+      "nl": "kortingsbon"
     }
   },
-  "programming_language": "python",
-  "access": "private"
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": []
 }
