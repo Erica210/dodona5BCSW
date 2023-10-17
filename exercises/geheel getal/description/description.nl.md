@@ -15,7 +15,7 @@ Tip: een getal is een geheel getal indien het gelijk is aan dat getal, afgerond 
 #### uitvoer
 
 ```console?lang=python&prompt=>>>
-De uitspraak dat dit een geheel getal is, is: True
+De uitspraak dat dit een geheel getal is, is: False
 ```
 
 ### Voorbeeld2
@@ -29,7 +29,7 @@ De uitspraak dat dit een geheel getal is, is: True
 #### uitvoer
 
 ```console?lang=python&prompt=>>>
-De uitspraak dat dit een geheel getal is, is: False
+De uitspraak dat dit een geheel getal is, is: True
 ```
 
 ### 
