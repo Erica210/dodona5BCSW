@@ -1,9 +1,18 @@
 {
   "description": {
     "names": {
-      "nl": "Eerstegraadsfunctie: snijpunten assen"
+      "nl": "eerstegraadsfunctie_snijpunten",
     }
   },
-  "programming_language": "python",
-  "access": "private"
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "labels": [
+
+  ],
+  "access": "public",
+  "internals": {
+    "token": "4uX_Is7JMNTPRWbsErb57U3TKMepQMHJ2zhaQkYytVIX3k_8TkMKjxYBywjurQjR",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
