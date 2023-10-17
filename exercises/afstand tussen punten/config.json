@@ -1,7 +1,8 @@
 {
   "description": {
     "names": {
-      "nl": "afstand tussen punten",
+      "en": "Afstand tussen punten",
+      "nl": "Afstand tussen punten"
     }
   },
   "evaluation": {
@@ -10,5 +11,6 @@
   "labels": [
 
   ],
-  "access": "public",
+  "programming_language": "python",
+  "access": "private"
 }

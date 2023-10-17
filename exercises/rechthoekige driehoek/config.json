@@ -1,6 +1,8 @@
 {
   "description": {
     "names": {
+      "en": "rechthoekige driehoek",
+      "nl": "rechthoekige driehoek"
     }
   },
   "evaluation": {
@@ -9,5 +11,6 @@
   "labels": [
 
   ],
-  "access": "public",
+  "programming_language": "python",
+  "access": "private"
 }
