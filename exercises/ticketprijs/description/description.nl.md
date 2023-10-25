@@ -4,9 +4,9 @@ De prijzen voor een attractiepark zijn gebaseerd op de lengte van een persoon:
 
 - lengte<85 cm: de inkom is gratis
 
-- 85 cm$\leq$ lengte <1m:  €18
+- 85 cm$$\leq$$ lengte <1m:  €18
 
-- lengte$\geq$1m: €48
+- lengte$$\geq$$1m: €48
 
 Hierop zijn wel enkele uitzonderingen:
 
