@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "geheel getal",
-      "nl": "geheel getal"
+      "en": "deelbaar door 11",
+      "nl": "deelbaar door 11"
     }
   },
   "evaluation": {
