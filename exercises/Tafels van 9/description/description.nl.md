@@ -1,4 +1,4 @@
-Schrijf een programma dat de 10 tafels van vermenigvuldiging afdrukt.
+Schrijf een programma dat de 10 eerste tafels van vermenigvuldiging met 9 afdrukt.
 
 dus:
 
