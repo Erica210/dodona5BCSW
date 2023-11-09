@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "Tafels van 9",
+      "nl": "Tafels van 9"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "labels": [
+
+  ],
+  "programming_language": "python",
+  "access": "private"
+}
