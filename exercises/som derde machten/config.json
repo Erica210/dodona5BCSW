@@ -8,9 +8,9 @@
   "evaluation": {
     "pythia_judge": "doctest"
   },
-  "labels": [for
+  "labels": [
 
   ],
   "programming_language": "python",
-  "access": "private"
+  "access": "public"
 }
