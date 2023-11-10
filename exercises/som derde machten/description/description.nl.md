@@ -1,8 +1,8 @@
 ## Som van de derde machten
 
-Schrijf een programma dat de som van de eerste $$n$$ derde machten berekent en print.
+Schrijf een programma dat de som van de eerste $n$ derde machten berekent en print.
 
-Voor $$n=4$$ geeft dit:
+Voor $n=4$ geeft dit:
 	$$1^3 + 2^3 + 3^3 + 4^3$$
  
 
