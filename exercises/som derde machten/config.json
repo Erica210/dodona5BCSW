@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "Som derde machten",
+      "nl": "Som derde machten"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "labels": [for
+
+  ],
+  "programming_language": "python",
+  "access": "private"
+}
