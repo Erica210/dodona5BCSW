@@ -32,42 +32,5 @@ Schrijf een programma dat het rapportcijfer berekent indien er meerdere toetsen 
 63
 ```
 
-### Voorbeeld2
 
-#### invoer
 
-```console?lang=python&prompt=>>>
-2100
-```
-
-#### uitvoer
-
-```console?lang=python&prompt=>>>
-Het jaar 2100 is geen schrikkeljaar en bevat 365 dagen.
-```
-
-### Voorbeeld3
-
-#### invoer
-
-```console?lang=python&prompt=>>>
-2004
-```
-
-#### uitvoer
-
-```console?lang=python&prompt=>>>
-Het jaar 2004 is een schrikkeljaar en bevat 366 dagen.
-```
-
-### 
-
-### Voorbeeld4
-
-#### invoer
-
-    2001
-
-#### uitvoer
-
-    Het jaar 2001 is geen schrikkeljaar en bevat 365 dagen.
