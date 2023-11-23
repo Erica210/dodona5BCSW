@@ -1,6 +1,6 @@
 ## n!
 
-De faculteit van een natuurlijk getal $n$ genoteerd als $n!$ is het product van de getallen 1 tot en met $n$
+De faculteit van een natuurlijk getal $$n$$ genoteerd als $$n!$$ is het product van de getallen 1 tot en met $$n$$
 
 bijvoorbeeld:
 
