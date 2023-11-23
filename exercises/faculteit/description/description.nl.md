@@ -1,8 +1,9 @@
 ## n!
 
-De faculteit van een natuurlijk getal $n$ genoteerd als $n!$ is het product van de getallen 1 tot en met $n$
+De faculteit van een natuurlijk getal $$n$$ genoteerd als $$n!$$ is het product van de getallen 1 tot en met $n$
 
 bijvoorbeeld:
+
 $$5!=1\cdot2\cdot3\cdot4\cdot5=120$$
 
 Schrijf een programma dat een geheel getal vraagt aan de gebruiker en daarvan de faculteit berekent en print naar de gebruiker zoals in onderstaande voorbeelden.
