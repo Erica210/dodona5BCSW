@@ -3,7 +3,7 @@ De gebruiker moet eerst invoeren hoeveel gehele getallen er daarna ingevoerd zul
 
 Vervolgens worden de $$N$$ gehele getallen ingevoerd.
 
-Schrijf een programma dat telt hoeveel van de $$N$% ingevoerde getallen even zijn.
+Schrijf een programma dat telt hoeveel van de $$N$$ ingevoerde getallen even zijn.
 
 Het getelde aantal even getallen moet vervolgens op het scherm getoond worden.
 
