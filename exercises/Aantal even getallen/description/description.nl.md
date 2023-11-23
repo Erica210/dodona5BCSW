@@ -14,14 +14,14 @@ Het ingevoerde getal mag niet negatief zijn!
 ```
 
 
-##Invoer
+## Invoer
 $$N + 1$$ gehele getallen:
 
 Het eerste getal bevat de waarde voor %N%. (%N% is een natuurlijk getal.)
 Vervolgens worden er %N% gehele getallen ingevoerd die al dan niet even en positief zijn.
 Elk getal wordt ingevoerd op een afzonderlijke regel.
 
-Uitvoer
+## Uitvoer
 Eén getal –> nl. het aantal maal dat de ingevoerde getallen dat positief en even is.
 
 Voorbeeld 1
