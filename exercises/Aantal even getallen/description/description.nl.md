@@ -1,9 +1,9 @@
 # Opdracht
 De gebruiker moet eerst invoeren hoeveel gehele getallen er daarna ingevoerd zullen worden.
 
-Vervolgens worden de $N$ gehele getallen ingevoerd.
+Vervolgens worden de $$N$$ gehele getallen ingevoerd.
 
-Schrijf een programma dat telt hoeveel van de $N$ ingevoerde getallen even zijn.
+Schrijf een programma dat telt hoeveel van de $$N$% ingevoerde getallen even zijn.
 
 Het getelde aantal even getallen moet vervolgens op het scherm getoond worden.
 
@@ -17,7 +17,7 @@ Het ingevoerde getal mag niet negatief zijn!
 ## Invoer
 $$N + 1$$ gehele getallen:
 
-Het eerste getal bevat de waarde voor $N$. ($N$ is een natuurlijk getal.)
+Het eerste getal bevat de waarde voor $$N%$. ($$N$$ is een natuurlijk getal.)
 Vervolgens worden er $N$ gehele getallen ingevoerd die al dan niet even en positief zijn.
 Elk getal wordt ingevoerd op een afzonderlijke regel.
 
