@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "Korting!",
+      "nl": "Korting!"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "labels": [
+
+  ],
+  "programming_language": "python",
+  "access": "private"
+}
