@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "1B. Valsnelheid",
+      "nl": "1B. Valsnelheid"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "labels": [
+
+  ],
+  "programming_language": "python",
+  "access": "public"
+}

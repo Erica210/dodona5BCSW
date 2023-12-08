@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "2A. Deelbaarheid",
+      "nl": "2A. Deelbaarheid"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "labels": [
+
+  ],
+  "programming_language": "python",
+  "access": "public"
+}

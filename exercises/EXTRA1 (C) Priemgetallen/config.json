@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "Extra 1 (C) Priemgetallen",
+      "nl": "Extra 1 (C) Priemgetallen"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "labels": [
+
+  ],
+  "programming_language": "python",
+  "access": "public"
+}

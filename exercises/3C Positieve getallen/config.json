@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "3C. Positieve getallen",
+      "nl": "3C. Positieve getallen"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "labels": [
+
+  ],
+  "programming_language": "python",
+  "access": "public"
+}

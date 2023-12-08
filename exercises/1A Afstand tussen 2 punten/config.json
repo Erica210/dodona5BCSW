@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "1A. Afstand tussen 2 punten",
+      "nl": "1A. Afstand tussen 2 punten"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "labels": [
+
+  ],
+  "programming_language": "python",
+  "access": "public"
+}
