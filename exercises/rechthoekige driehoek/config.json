@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "rechthoekige driehoek",
+      "nl": "rechthoekige driehoek"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "labels": [
+
+  ],
+  "programming_language": "python",
+  "access": "private"
+}
