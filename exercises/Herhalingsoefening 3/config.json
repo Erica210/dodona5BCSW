@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "Oefening 3: for lus binnen for lus"
-      "nl":  "Oefening 3: for lus binnen for lus"
+      "en": "oefening 3: for lus binnen for lus",
+      "nl": "oefening 3: for lus binnen for lus"
     }
   },
   "evaluation": {
@@ -12,5 +12,5 @@
 
   ],
   "programming_language": "python",
-  "access": "private"
+  "access": "public"
 }
