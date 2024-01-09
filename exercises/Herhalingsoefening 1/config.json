@@ -7,3 +7,20 @@
   "programming_language": "python",
   "access": "public"
 }
+
+{
+  "description": {
+    "names": {
+      "en": "Oefening 1: kleinste getal"
+      "nl":  "Oefening 1: kleinste getal"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "labels": [
+
+  ],
+  "programming_language": "python",
+  "access": "private"
+}

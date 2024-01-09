@@ -1,9 +1,16 @@
 {
   "description": {
     "names": {
-      "nl": "Oefening 3: for lus binnen for lus"
+      "en": "Oefening 3: for lus binnen for lus"
+      "nl":  "Oefening 3: for lus binnen for lus"
     }
   },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "labels": [
+
+  ],
   "programming_language": "python",
-  "access": "public"
+  "access": "private"
 }

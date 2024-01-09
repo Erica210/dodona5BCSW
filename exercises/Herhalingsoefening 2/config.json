@@ -1,9 +1,16 @@
 {
   "description": {
     "names": {
-      "nl": "Oefening 2: aantal delers"
+      "en": "Oefening 2: aantal delers"
+      "nl":  "Oefening 2: aantal delers"
     }
   },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "labels": [
+
+  ],
   "programming_language": "python",
-  "access": "public"
+  "access": "private"
 }
