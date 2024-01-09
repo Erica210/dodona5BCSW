@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "Oefening 2: aantal delers"
-      "nl":  "Oefening 2: aantal delers"
+      "en": "oefening 2: aantal delers",
+      "nl": "oefening 2: aaltal delers"
     }
   },
   "evaluation": {
@@ -12,5 +12,5 @@
 
   ],
   "programming_language": "python",
-  "access": "private"
+  "access": "public"
 }
