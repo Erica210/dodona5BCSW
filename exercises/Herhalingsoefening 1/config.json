@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "Oefening 1: kleinste getal"
-      "nl": "Oefening 1: kleinste getal"
+      "en": "oefening 1: kleinste getal",
+      "nl": "oefening 1: kleinste getal"
     }
   },
   "evaluation": {
@@ -12,5 +12,5 @@
 
   ],
   "programming_language": "python",
-  "access": "private"
+  "access": "public"
 }
