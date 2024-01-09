@@ -14,7 +14,7 @@ for i in range(1,7):
 	for j in range (___,__):
 		print(___, end="")
 	print("")
-
+```
 
 Tip: Waneer je print() gebruikt, sluit de functie altijd af door daarna op een nieuwe regel te beginngen. Dit kun je vermijden door print(variabele, end=””) te gebruiken. 
 
